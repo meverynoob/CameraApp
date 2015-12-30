@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Camera</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label">Simple Camera</string>
+    <string name="image_view">The photo show up here</string>
+    <string name="button">Take a picture</string>
+</resources>

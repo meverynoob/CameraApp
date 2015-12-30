@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#F44336"
+        android:textColor="#FFFFFF"
+        android:id="@+id/button_camera"
+        android:text="@string/button"/>
+
+    <ImageView
+        android:id = "@+id/this_image_view"
+        android:contentDescription="@string/image_view"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"/>
+
+</LinearLayout>
